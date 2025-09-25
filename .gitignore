@@ -22,3 +22,7 @@ node_modules/
 .parcel-cache
 
 .DS_Store
+
+# Excel merger testing files
+test_excel_files/
+test_output_*.xlsx
